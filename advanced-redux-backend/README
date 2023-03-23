@@ -1,0 +1,6 @@
+# NOTES
+
+## Running nodemon
+
+If not given an npm script:
+node_modules/.bin/nodemon index.js

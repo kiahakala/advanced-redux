@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "p3",
+      "price": "10",
+      "title": "The best product",
+      "description": "The best product on the market!"
+    },
+    {
+      "id": "p4",
+      "price": "4",
+      "title": "The worst product",
+      "description": "1/5 wouldn't recommend"
+    },
+    {
+      "id": "p5",
+      "price": "6",
+      "title": "The average",
+      "description": "A pretty good product"
+    },
+    {
+      "id": "p6",
+      "price": "9",
+      "title": "Almost the best",
+      "description": "Almost the best but not quite"
+    },
+    {
+      "id": "50.9024884499875416",
+      "title": "Testi",
+      "price": "19",
+      "description": "Fucking expensive"
+    }
+  ]
+}
