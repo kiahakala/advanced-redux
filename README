@@ -1,0 +1,18 @@
+A full stack webstore project.
+
+- Frontend: React.js, Redux
+- Backend: Node.js, Express.js
+- Database: MongoDB
+
+## Next steps
+
+1. Expanding Redux state management
+2. Connecting cart to the database
+3. A modal for the product form
+4. Product modification functionality
+5. Visual changes
+
+## Backlog
+
+1. Authentication
+2. Product images
