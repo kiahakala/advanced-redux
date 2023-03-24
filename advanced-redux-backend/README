@@ -5,10 +5,6 @@
 If not given an npm script:
 node_modules/.bin/nodemon index.js
 
-## Copying build folder from the frontend root to backend
-
-cp -r build ../advanced-redux-backend
-
 ## Site url
 
 https://advanded-redux.onrender.com/
