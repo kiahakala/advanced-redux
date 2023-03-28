@@ -12,7 +12,7 @@ const MainHeader = (props) => {
 
 	return (
 		<header className={classes.header}>
-		<h1>ReduxCart</h1>
+		<h1>Webstore</h1>
 		<nav>
 			<ul>
 			<li>

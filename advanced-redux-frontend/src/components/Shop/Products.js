@@ -17,7 +17,7 @@ const Products = (props) => {
 
 	return (
 		<section className={classes.products}>
-		<h2>Buy your favorite products</h2>
+		<h2>Available products</h2>
 		<ul>
 			{products.map(product =>
 			<ProductItem
